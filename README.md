@@ -27,6 +27,9 @@ Build an application that shows all possible data and actions using the API crea
 
 - An AntDesign React Web Application published on GitHub Pages
 - URL to published page: https://leonardoreboucas.github.io/tractian-frontend
+- Default credentials:
+  - Username: Administrator
+  - Password: tr4ct14nch4ll3ng3 
 
 ## How to run locally
 
